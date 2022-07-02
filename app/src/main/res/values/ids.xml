@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="connection_status" type="id">connectionStatus</item>
+    <item name="switch1" type="id">aSwitch</item>
+    <item name="buttonDiscover" type="id">discoverButton</item>
+    <item name="listView" type="id">listView</item>
+    <item name="messageTextView" type="id">messageTextView</item>
+    <item name="editTextTypeMsg" type="id">typeMsg</item>
+    <item name="sendButton" type="id">sendButton</item>
+</resources>

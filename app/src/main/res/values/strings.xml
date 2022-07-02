@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="text">Connection Status</string>
+    <string name="Send">Send</string>
+    <string name="Message">Message</string>
+    <string name="discover">discover</string>
+    <string name="WifiOn">Wifi On</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="On_Off">ON/OFF</string>
+    <string name="message">message</string>
+    <string name="name">Type...</string>
+</resources>
